@@ -7,7 +7,7 @@ Eu sou Matheus Andrade, atualmente estou trabalhando como Analista de Suporte Co
 
 ## ⚡ O meu portfólio básico
 
-![Git](https://github.com/matheusbsi1992)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)(https://github.com/matheusbsi1992)
 
 ## ⚡ Tecnologias
 
