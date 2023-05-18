@@ -5,7 +5,7 @@ Eu sou Matheus Andrade, atualmente estou trabalhando como Analista de Suporte Co
 
 [![Gmail Badge](https://img.shields.io/badge/-matheusbsi1992@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheusbsi1992@gmail.com)](mailto:matheusbsi1992@gmail.com)
 
-<a href="https://linkedin.com/in/matheusandrade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matheusandrade" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/matheusandrade](https://www.linkedin.com/in/matheus-andrade-5201b0236/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matheusandrade" height="30" width="40" /></a>
 
 <a href="[(https://www.linkedin.com/in/matheus-andrade-5201b0236/)]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white))" target="#" >
 <img align="center" src="[(https://www.linkedin.com/in/matheus-andrade-5201b0236/)] alt="matheusandrade" height="30" width="40" />Meu Linkedin</a>
