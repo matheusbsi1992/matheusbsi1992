@@ -4,7 +4,8 @@
 Eu sou Matheus Andrade, atualmente estou trabalhando como Analista de Suporte Computacional, em  [Hospital Nossa Senhora da Conceição] (http://ahs.org.br/ahs/). Além disso, eu sou entusiasta de tecnologia da informação, com ênfase em qualidade de software e um defensor de código aberto. Estou sempre aberto a colaborar em projetos e ideias inovadoras. Saiba mais sobre mim e sinta-se à vontade para se conectar comigo aqui:
 
 [![Gmail Badge](https://img.shields.io/badge/-matheusbsi1992@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheusbsi1992@gmail.com)](mailto:matheusbsi1992@gmail.com)
-<a href="[https://linkedin.com/in/matheusandrade](https://www.linkedin.com/in/matheus-andrade-5201b0236/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-
+
+<a href="[https://linkedin.com/in/matheusandrade](https://www.linkedin.com/in/matheus-andrade-5201b0236/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-/>
 
 ## ⚡ O meu portfólio básico
 
