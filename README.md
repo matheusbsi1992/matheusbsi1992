@@ -5,7 +5,7 @@ Eu sou Matheus Andrade, atualmente estou trabalhando como Analista de Suporte Co
 
 [![Gmail Badge](https://img.shields.io/badge/-matheusbsi1992@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheusbsi1992@gmail.com)](mailto:matheusbsi1992@gmail.com)
 
-<a href="[(https://www.linkedin.com/in/matheus-andrade-5201b0236/)]" ><img align="center" src="(https://www.linkedin.com/in/matheus-andrade-5201b0236/)" alt="matheusandrade" height="30" width="40" />Meu Linkedin</a>
+<a href="[(https://www.linkedin.com/in/matheus-andrade-5201b0236/)]" ><img align="center" src="[(https://www.linkedin.com/in/matheus-andrade-5201b0236/)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" alt="matheusandrade" height="30" width="40" />Meu Linkedin</a>
 
 ## ⚡ O meu portfólio básico
 
