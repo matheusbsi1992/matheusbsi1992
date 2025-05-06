@@ -1,6 +1,5 @@
 ## É um prazer ver você aqui! 
 
-![profile views]()
 
 <p> Eu sou Matheus Andrade, atualmente estou trabalhando como Analista de Suporte Computacional, em  [Hospital Nossa Senhora da Conceição] (http://ahs.org.br/ahs). Além disso, eu sou entusiasta de tecnologia da informação, com ênfase em qualidade de software e um defensor de código aberto. Estou sempre aberto a colaborar em projetos e ideias inovadoras. Saiba mais sobre mim e sinta-se à vontade para se conectar comigo !!! </p>
                                                                                                                               
